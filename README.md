@@ -1,4 +1,4 @@
-# Fundamentals-of-programming-and-Computer-Science
+# Fundamentals-of-programming-and-Computer-Science-IUST
 My solutions to IUST's Fundamentals of programming and Computer Science, Spring 2020, Dr. Malekimajd
 
 ## <img width="20" height="20" src="https://img.icons8.com/wired/64/41b883/class.png" alt="class"/> Class Activities
