@@ -2,6 +2,13 @@
 My solutions to IUST's Fundamentals of programming and Computer Science, Spring 2020, Dr. Malekimajd
 
 ## <img width="20" height="20" src="https://img.icons8.com/wired/64/41b883/class.png" alt="class"/> Class Activities
+### CA1
+Description: A class activity designed to reinforce concepts covered in the lessons.
+Code: [Link to CA1](https://github.com/lelnazrezaeel/Fundamentals-of-programming-and-Computer-Science/blob/main/Class%20Activities/CA1.c)
+
+### CA2
+Description: Another class activity focused on solidifying our grasp of the class content.
+Code: [Link to CA2](https://github.com/lelnazrezaeel/Fundamentals-of-programming-and-Computer-Science/blob/main/Class%20Activities/CA2.c)
 
 ## <img width="20" height="20" src="https://img.icons8.com/ios/50/41b883/homework.png" alt="homework"/> Homeworks
 ### HW0
