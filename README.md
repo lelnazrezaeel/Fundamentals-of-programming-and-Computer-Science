@@ -34,3 +34,7 @@ My solutions to IUST's Fundamentals of programming and Computer Science, Spring 
 ### HW5
 - Description: Covers advanced topics including strings, pointers, and structs in 8 questions.
 - Code: [Link to HW5](https://github.com/lelnazrezaeel/Fundamentals-of-programming-and-Computer-Science/tree/main/Homeworks/HW5)
+
+## <img width="20" height="20" src="https://img.icons8.com/ios/50/41b883/quiz.png" alt="quiz"/> Quizzes
+- Description: The quizzes are comprehensive assessments that cover all the subjects taught during the course.
+- Code: [Link to Quizzes](https://github.com/lelnazrezaeel/Fundamentals-of-programming-and-Computer-Science/tree/main/Quizzes)
